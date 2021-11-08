@@ -11,7 +11,7 @@
 ## **Connect with me:**
 </br>
 
-[<img src="https://img.icons8.com/ios-glyphs/50/000000/linkedin.png"/>](https://www.linkedin.com/in/danteedmonson/) &nbsp; &nbsp; &nbsp; &nbsp;   [<img src="https://img.icons8.com/ios/50/000000/domain.png"/>](https://danteedmonson.com/) 
+[<img src="https://img.icons8.com/fluency/50/000000/linkedin.png"/>](https://www.linkedin.com/in/danteedmonson/) &nbsp; &nbsp; &nbsp; &nbsp;   [<img src="https://img.icons8.com/ios/50/2867b2/domain.png"/>](https://danteedmonson.com/) 
 
 </br>
 
