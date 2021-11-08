@@ -25,7 +25,7 @@
  <img src="https://img.icons8.com/color/35/000000/css3.png"/> &nbsp; &nbsp; &nbsp; &nbsp;
  <img src="https://img.icons8.com/color/35/000000/sass.png"/>  &nbsp; &nbsp; &nbsp; &nbsp;
  <img src="https://img.icons8.com/color/35/000000/mongodb.png"/> &nbsp; &nbsp; &nbsp; &nbsp;
- <img src="https://img.icons8.com/color/35/000000/mysql-logo.png"/>  &nbsp; &nbsp; &nbsp; &nbsp; </br>
+ <img src="https://img.icons8.com/color/35/000000/mysql-logo.png"/>  &nbsp; &nbsp; &nbsp; &nbsp; </br></br>
  <img src="https://img.icons8.com/fluency/35/000000/node-js.png"/> &nbsp; &nbsp; &nbsp; &nbsp;
  <img src="https://img.icons8.com/color/35/000000/c-programming.png"/>  &nbsp; &nbsp; &nbsp; &nbsp;
  <img src="https://img.icons8.com/color/35/000000/java-coffee-cup-logo--v2.png"/> &nbsp; &nbsp; &nbsp; &nbsp;
