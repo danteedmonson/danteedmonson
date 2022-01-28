@@ -4,8 +4,7 @@
 
 
 
-### I'm a software engineer with a passion for full-stack web development. </br>I've recently graduated from the University of Central Florida.</br>
-I plan to use my skills and education towards a career that </br>will enable me to develop software at a high degree.
+### I'm a software engineer with a passion for full-stack web development. </br>I've recently graduated from the University of Central Florida.</br>I plan to use my skills and education towards a career that </br>will enable me to develop software at a high degree.
 
 </br>
 
